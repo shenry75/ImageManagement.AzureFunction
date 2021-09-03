@@ -1,0 +1,12 @@
+ImageManagement.UnitTests/bin/
+ImageManagement.UnitTests/obj/
+ImageManagement/Properties/serviceDependencies.BDSBlobStorageUpload - Zip Deploy.json
+packages/
+.vs/
+ImageManagement/Properties/serviceDependencies.bdsimagestorage - Zip Deploy.json
+ImageManagement/Properties/PublishProfiles/BDSBlobStorageUpload - Zip Deploy.pubxml
+ImageManagement/Properties/PublishProfiles/bdsimagestorage - Zip Deploy.pubxml
+ImageManagement/Properties/ServiceDependencies/BDSBlobStorageUpload - Zip Deploy/apis1.arm.json
+ImageManagement/Properties/ServiceDependencies/BDSBlobStorageUpload - Zip Deploy/storage1.arm.json
+ImageManagement/Properties/ServiceDependencies/bdsimagestorage - Zip Deploy/apis1.arm.json
+ImageManagement/Properties/ServiceDependencies/bdsimagestorage - Zip Deploy/storage1.arm.json

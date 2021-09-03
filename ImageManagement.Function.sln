@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagement.Upload", "ImageManagement\ImageManagement.Upload.csproj", "{864D1EEE-B69F-459A-9AB2-AF9D9E6EA771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagement.UnitTests", "ImageManagement.UnitTests\ImageManagement.UnitTests.csproj", "{5F7690F9-EC3D-40E6-A438-912B32CDECA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864D1EEE-B69F-459A-9AB2-AF9D9E6EA771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864D1EEE-B69F-459A-9AB2-AF9D9E6EA771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864D1EEE-B69F-459A-9AB2-AF9D9E6EA771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864D1EEE-B69F-459A-9AB2-AF9D9E6EA771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7690F9-EC3D-40E6-A438-912B32CDECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7690F9-EC3D-40E6-A438-912B32CDECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7690F9-EC3D-40E6-A438-912B32CDECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7690F9-EC3D-40E6-A438-912B32CDECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A134D220-C9E0-4E94-A65E-DDDAA48EBE7D}
+	EndGlobalSection
+EndGlobal
